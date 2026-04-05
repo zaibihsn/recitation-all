@@ -1,0 +1,18 @@
+{
+  "verse_key": "77:1",
+  "timestamp_from": 5130,
+  "timestamp_to": 7830,
+  "duration": 2700,
+  "segments": [
+    [
+      1,
+      5330,
+      6970
+    ],
+    [
+      2,
+      6970,
+      7830
+    ]
+  ]
+}

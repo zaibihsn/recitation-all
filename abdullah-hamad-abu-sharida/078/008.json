@@ -1,0 +1,18 @@
+{
+  "verse_key": "78:8",
+  "timestamp_from": 40560,
+  "timestamp_to": 44150,
+  "duration": 3590,
+  "segments": [
+    [
+      1,
+      40860,
+      42660
+    ],
+    [
+      2,
+      42660,
+      44150
+    ]
+  ]
+}
