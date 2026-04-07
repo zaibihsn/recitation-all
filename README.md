@@ -85,7 +85,8 @@ This repository contains **22 reciters**. Below is the detailed breakdown of fil
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Code License**: This project's infrastructure and scripts are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Data License & Disclaimer**: For information regarding audio ownership, usage rights, and attributions, please refer to the [DATA_LICENSE.md](DATA_LICENSE.md) file.
 
 ---
 *Created and maintained by [zaibihsn](https://github.com/zaibihsn).*
