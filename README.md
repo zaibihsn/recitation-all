@@ -27,17 +27,15 @@ The recitations and timing data in this repository were meticulously gathered an
 You can use this repository as a high-speed CDN for your frontend applications.
 
 ### Audio URL Pattern
-Replace `{reciter-name}` and `{verse-index}` with the actual values.
-```
-https://cdn.jsdelivr.net/gh/zaibihsn/recitation-all/audio/{reciter-name}/{surah-index}/{verse-index}.opus
+Replace `{reciter-name}`, `{surah-index}`, and `{verse-index}` with the corresponding values (surah and verse must be 3-digit zero-padded).
+```text
+https://cdn.jsdelivr.net/gh/zaibihsn/recitation-all@main/{reciter-name}/{surah-index}/{surah-index}{verse-index}.opus
 ```
 
 ### Timestamp JSON URL Pattern
+```text
+https://cdn.jsdelivr.net/gh/zaibihsn/recitation-all@main/{reciter-name}/{surah-index}/{surah-index}{verse-index}.json
 ```
-https://cdn.jsdelivr.net/gh/zaibihsn/recitation-all/data/{reciter-name}/{surah-index}/{verse-index}.json
-```
-
-*Note: For reciters using global indexing, the path might be simplified to `{reciter-name}/{verse-global-index}.opus`.*
 
 ---
 
@@ -72,16 +70,14 @@ This repository contains **22 reciters**. Below is the detailed breakdown of fil
 
 ---
 
-## 🛠️ Technical Details
+## 🛠️ Technical Details & Implementation
 
 1. **Audio Format**: Opus (`.opus`) - Optimized for streaming and low-bandwidth scenarios while maintaining high fidelity.
-2. **Metadata**: Each verse has a JSON file containing:
-   - `reciter_name`
-   - `surah`
-   - `verse`
-   - `audio_url` (reference)
-   - `words`: Detailed word-by-word timing (start and end times in milliseconds).
-3. **Global Search Index**: The repository supports a 1-6236 indexing system, allowing developers to map verses directly without complex Surah/Ayah logic.
+2. **Metadata Formats**: Each verse has a `.json` file containing word-by-word timestamps. The JSON structure will be either a flat array or a detailed segment object depending on the original data source.
+3. **Directory Structure**: Audio and JSON files are structured inside their respective reciter directory using their 3-digit zero-padded Surah/Verse logic (e.g., `/{reciter_name}/{surah_index}/{surah_index}{verse_index}.opus`).
+
+**📖 Implementation Guide**
+Please refer to our comprehensive [**IMPLEMENTATION.md**](IMPLEMENTATION.md) for detailed descriptions of the JSON formats, code examples in **React, Vue, Flutter, and Vanilla JS**, and a ready-to-use **AI Prompt** to help you generate your app's code instantly.
 
 ## 📜 License
 
