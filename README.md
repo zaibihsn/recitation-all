@@ -3,11 +3,11 @@
 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/zaibihsn/recitation-all/badge)](https://www.jsdelivr.com/package/gh/zaibihsn/recitation-all)
 [![GitHub license](https://img.shields.io/github/license/zaibihsn/recitation-all)](https://github.com/zaibihsn/recitation-all/blob/main/LICENSE)
 
-A comprehensive repository of Quranic recitations, optimized for web and mobile applications. This project provides high-quality audio files in `.opus` format and precise word-by-word timestamp data in `.json` format for 22 world-renowned reciters.
+A comprehensive repository of Quranic recitations, optimized for web and mobile applications. This project provides high-quality audio files in `.opus` format and precise word-by-word timestamp data in `.json` format for 21 world-renowned reciters.
 
 ## 🌟 Key Features
 
-- **22 Renowned Reciters**: A wide selection of beautiful recitations.
+- **21 Renowned Reciters**: A wide selection of beautiful recitations.
 - **Optimized for Web**: All audio files are converted to `.opus` format for superior compression and quality.
 - **Precise Timestamps**: Every verse includes a corresponding JSON file with word-by-word timing data.
 - **Global Indexing**: Files are organized using a global search index (1 to 6236), covering every verse of the Quran.
@@ -41,7 +41,7 @@ https://cdn.jsdelivr.net/gh/zaibihsn/recitation-all@main/{reciter-name}/{surah-i
 
 ## 🎙️ List of Reciters and Statistics
 
-This repository contains **22 reciters**. Below is the detailed breakdown of files available for each:
+This repository contains **21 reciters**. Below is the detailed breakdown of files available for each:
 
 | Reciter Name | Audio Files (.opus) | Timestamp Files (.json) |
 | :--- | :---: | :---: |
@@ -49,7 +49,6 @@ This repository contains **22 reciters**. Below is the detailed breakdown of fil
 | [Abdul Basit Abdul Samad (Mujawwad)](https://github.com/zaibihsn/recitation-all/tree/main/abdul-basit-abdul-samad-mujawwad-hafs-949) | 6236 | 6236 |
 | [Abdul Rahman Al-Sudais (Murattal)](https://github.com/zaibihsn/recitation-all/tree/main/abdul-rahman-al-sudais-murattal-hafs-951) | 6236 | 6236 |
 | [Abdullah Hamad Abu Sharida](https://github.com/zaibihsn/recitation-all/tree/main/abdullah-hamad-abu-sharida) | 6236 | 6236 |
-| [Abdur Rahman As-Sudais (Recitation)](https://github.com/zaibihsn/recitation-all/tree/main/abdur-rahman-as-sudais-recitation) | 6236 | 6236 |
 | [Abu Bakr Al-Shatri](https://github.com/zaibihsn/recitation-all/tree/main/abu-bakr-al-shatri-murattal-hafs-952) | 6236 | 6236 |
 | [Ahmed Ibn Ali Al-Ajmy](https://github.com/zaibihsn/recitation-all/tree/main/ahmed-ibn-ali-al-ajmy) | 6236 | 6236 |
 | [Al-Nufais](https://github.com/zaibihsn/recitation-all/tree/main/alnufais) | 6236 | 6236 |
