@@ -53,7 +53,7 @@ This repository contains **22 reciters**. Below is the detailed breakdown of fil
 | [Ahmed Ibn Ali Al-Ajmy](https://github.com/zaibihsn/recitation-all/tree/main/ahmed-ibn-ali-al-ajmy) | 6236 | 6236 |
 | [Al-Nufais](https://github.com/zaibihsn/recitation-all/tree/main/alnufais) | 6236 | 6236 |
 | [Bandar Baleela](https://github.com/zaibihsn/recitation-all/tree/main/bandar-baleela) | 6236 | 6236 |
-| [Hady Toure](https://github.com/zaibihsn/recitation-all/tree/main/surah-recitation-hady-toure) | 6212 | 6212 |
+| [Hady Toure](https://github.com/zaibihsn/recitation-all/tree/main/surah-recitation-hady-toure) | 6236 | 6236 |
 | [Hani Ar-Rifai](https://github.com/zaibihsn/recitation-all/tree/main/hani-ar-rifai-recitation-murattal-hafs-68) | 6236 | 6236 |
 | [Khalifa Al-Tunaiji](https://github.com/zaibihsn/recitation-all/tree/main/khalifa-al-tunaiji-murattal-hafs-958) | 6236 | 6236 |
 | [Maher Al-Muaiqly](https://github.com/zaibihsn/recitation-all/tree/main/maher-al-mu-aiqly-murattal-hafs-948) | 6236 | 6236 |
