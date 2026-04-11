@@ -29,16 +29,18 @@ Attribution is given to the following reciters whose work is hosted in this repo
 5.  **Ahmed Ibn Ali Al-Ajmy**
 6.  **Al-Nufais**
 7.  **Bandar Baleela**
-8.  **Hani Ar-Rifai**
-9.  **Khalifa Al-Tunaiji**
-10. **Maher Al-Muaiqly**
-11. **Mahmoud Khalil Al-Husary** (Murattal, Mujawwad & Alternate)
-12. **Minshawi Kids Repeat**
-13. **Mishari Rashid Al-Afasy**
-14. **Mohamed Al-Tablawi**
-15. **Muhammad Siddiq Al-Minshawi**
-16. **Saad Al-Ghamdi**
-17. **Saud Al-Shuraim**
-18. **Yasser Al-Dosari**
+8.  **Hady Toure**
+9.  **Hani Ar-Rifai**
+10. **Khalid Al-Jalil**
+11. **Khalifa Al-Tunaiji**
+12. **Maher Al-Muaiqly**
+13. **Mahmoud Khalil Al-Husary** (Murattal, Mujawwad & Alternate)
+14. **Minshawi Kids Repeat**
+15. **Mishari Rashid Al-Afasy**
+16. **Mohamed Al-Tablawi**
+17. **Muhammad Siddiq Al-Minshawi**
+18. **Saad Al-Ghamdi**
+19. **Saud Al-Shuraim**
+20. **Yasser Al-Dosari**
 
 *Note: Due to the nature of distributed Islamic media, some specific recording origins may be mixed or unknown. We provide this repository as an organized index for the community.*

@@ -3,11 +3,11 @@
 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/zaibihsn/recitation-all/badge)](https://www.jsdelivr.com/package/gh/zaibihsn/recitation-all)
 [![GitHub license](https://img.shields.io/github/license/zaibihsn/recitation-all)](https://github.com/zaibihsn/recitation-all/blob/main/LICENSE)
 
-A comprehensive repository of Quranic recitations, optimized for web and mobile applications. This project provides high-quality audio files in `.opus` format and precise word-by-word timestamp data in `.json` format for 22 world-renowned reciters.
+A comprehensive repository of Quranic recitations, optimized for web and mobile applications. This project provides high-quality audio files in `.opus` format and precise word-by-word timestamp data in `.json` format for 23 world-renowned reciters.
 
 ## 🌟 Key Features
 
-- **22 Renowned Reciters**: A wide selection of beautiful recitations.
+- **23 Renowned Reciters**: A wide selection of beautiful recitations.
 - **Optimized for Web**: All audio files are converted to `.opus` format for superior compression and quality.
 - **Precise Timestamps**: Every verse includes a corresponding JSON file with word-by-word timing data.
 - **Global Indexing**: Files are organized using a global search index (1 to 6236), covering every verse of the Quran.
@@ -41,7 +41,7 @@ https://cdn.jsdelivr.net/gh/zaibihsn/recitation-all@main/{reciter-name}/{surah-i
 
 ## 🎙️ List of Reciters and Statistics
 
-This repository contains **22 reciters**. Below is the detailed breakdown of files available for each:
+This repository contains **23 reciters**. Below is the detailed breakdown of files available for each:
 
 | Reciter Name | Audio Files (.opus) | Timestamp Files (.json) |
 | :--- | :---: | :---: |
@@ -55,6 +55,7 @@ This repository contains **22 reciters**. Below is the detailed breakdown of fil
 | [Bandar Baleela](https://github.com/zaibihsn/recitation-all/tree/main/bandar-baleela) | 6236 | 6236 |
 | [Hady Toure](https://github.com/zaibihsn/recitation-all/tree/main/surah-recitation-hady-toure) | 6236 | 6236 |
 | [Hani Ar-Rifai](https://github.com/zaibihsn/recitation-all/tree/main/hani-ar-rifai-recitation-murattal-hafs-68) | 6236 | 6236 |
+| [Khalid Al-Jalil](https://github.com/zaibihsn/recitation-all/tree/main/khalid-al-jalil-murattal-hafs) | 6236 | 6236 |
 | [Khalifa Al-Tunaiji](https://github.com/zaibihsn/recitation-all/tree/main/khalifa-al-tunaiji-murattal-hafs-958) | 6236 | 6236 |
 | [Maher Al-Muaiqly](https://github.com/zaibihsn/recitation-all/tree/main/maher-al-mu-aiqly-murattal-hafs-948) | 6236 | 6236 |
 | [Mahmoud Khalil Al-Husary (Mujawwad)](https://github.com/zaibihsn/recitation-all/tree/main/mahmoud-khalil-al-husary-mujawwad-hafs-956) | 6236 | 6236 |
